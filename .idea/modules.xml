@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Hibernate-Assignment01.iml" filepath="$PROJECT_DIR$/.idea/Hibernate-Assignment01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_01/Part_01.iml" filepath="$PROJECT_DIR$/Part_01/Part_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_02_Many_To_Many/Part_02_Many_To_Many.iml" filepath="$PROJECT_DIR$/Part_02_Many_To_Many/Part_02_Many_To_Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_02_One_To_Many/Part_02_One_To_Many.iml" filepath="$PROJECT_DIR$/Part_02_One_To_Many/Part_02_One_To_Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_02_One_To_One/Part_02_One_To_One.iml" filepath="$PROJECT_DIR$/Part_02_One_To_One/Part_02_One_To_One.iml" />
     </modules>
   </component>
 </project>
