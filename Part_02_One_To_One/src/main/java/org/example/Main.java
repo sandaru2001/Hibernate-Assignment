@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
         Book book = new Book();
         book.setBookId("B001");
-        book.setBookName("lushan ponnaya");
+        book.setBookName("The Witcher");
 
         Author author = new Author();
         author.setAuthorId("A001");
